@@ -1,0 +1,7 @@
+#include "zcommon.acs"
+
+script "lava room unlock" (void)
+{
+    str class = "BaronOfHell";
+    sagdfgawsgdf
+}
