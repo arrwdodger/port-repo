@@ -7,7 +7,7 @@ maps
 	
 	MAP01
 	{
-		viewpositiony = -11390.87f;
+		viewpositiony = -17219.33f;
 		
 		plugins
 		{
@@ -30,40 +30,6 @@ maps
 				
 				prefabs
 				{
-					
-					prefab1
-					{
-						name = "[Previous]";
-						numberofsectors = 19;
-						outervertexmultiplier = 1;
-						innervertexmultiplier = 1;
-						stairtype = 0;
-						sectordepth = 24;
-						spacing = 0;
-						frontside = true;
-						singlesectors = true;
-						distinctsectors = false;
-						singledirection = true;
-						distinctbaseheights = true;
-						flipping = 0;
-						numberofcontrolpoints = 1;
-						applyfloormod = true;
-						floormod = 0;
-						applyceilingmod = true;
-						ceilingmod = 0;
-						applyfloortexture = false;
-						floortexture = "";
-						applyceilingtexture = false;
-						ceilingtexture = "";
-						applyuppertexture = true;
-						uppertexture = "-";
-						upperunpegged = true;
-						applymiddletexture = false;
-						middletexture = "-";
-						applylowertexture = true;
-						lowertexture = "-";
-						lowerunpegged = true;
-					}
 				}
 			}
 		}
@@ -86,9 +52,9 @@ maps
 			stderriserror = true;
 			exitcodeiserror = true;
 		}
-		viewpositionx = -5563.202f;
+		viewpositionx = -6072.939f;
 		overridemiddletexture = false;
-		viewscale = 0.09810741f;
+		viewscale = 6.528195f;
 		defaulttoptexture = "ROCK5";
 		
 		testprecommand
@@ -123,7 +89,7 @@ maps
 			gridoriginx = 0;
 			backoffsetx = 0;
 			gridrotate = 0;
-			gridsize = 1024;
+			gridsize = 16;
 			backscaley = 100;
 			backsource = 0;
 		}
