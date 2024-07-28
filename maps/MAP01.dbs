@@ -7,7 +7,7 @@ maps
 	
 	MAP01
 	{
-		viewpositiony = 13032.42f;
+		viewpositiony = 13481.39f;
 		custombrightness = 196;
 		
 		testpostcommand
@@ -27,9 +27,9 @@ maps
 			stderriserror = true;
 			exitcodeiserror = true;
 		}
-		viewpositionx = -24562.81f;
+		viewpositionx = -23558.06f;
 		overridemiddletexture = false;
-		viewscale = 3.211826f;
+		viewscale = 1.461914f;
 		defaulttoptexture = "ROCK5";
 		
 		testprecommand
@@ -64,7 +64,7 @@ maps
 			gridoriginx = 0;
 			backoffsetx = 0;
 			gridrotate = 0;
-			gridsize = 32;
+			gridsize = 64;
 			backscaley = 100;
 			backsource = 0;
 		}
