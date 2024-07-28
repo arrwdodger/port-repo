@@ -1,0 +1,6 @@
+map map01 "TEMP"
+{
+	Sky1 = "SKY3", 0
+	smoothlighting
+	EnableShadowmap
+}

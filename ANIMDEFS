@@ -1,0 +1,60 @@
+Switch TSW4A on pic TSW4B tics 0
+Switch TMTLSW1A on pic TMTLSW1B tics 0
+Switch TMTLSW2A on pic TMTLSW2B tics 0
+Switch TMTLSW3A on pic TMTLSW3B tics 0 
+Switch T2SW01A on pic T2SW01B tics 0
+Switch T2SW02A on pic T2SW02B tics 0
+
+warp flat TLAVFL0
+warp flat TSLIMEFL
+warp flat TWARP01
+warp flat TWARP02
+warp flat TWARP03
+warp flat TWARP04
+
+texture THEDWL1A
+   allowdecals
+   pic THEDWL1A tics 5
+   pic THEDWL1B tics 5
+   pic THEDWL1C tics 5
+   pic THEDWL1D tics 5
+   pic THEDWL1C tics 5
+   pic THEDWL1B tics 5
+   
+texture TLIGWL1A
+  allowdecals
+  pic TLIGWL1A tics 5
+  pic TLIGWL1B tics 5
+  pic TLIGWL1C tics 5
+  pic TLIGWL1D tics 5
+  pic TLIGWL1E tics 5
+  pic TLIGWL1D tics 5
+  pic TLIGWL1C tics 5
+  pic TLIGWl1B tics 5
+
+
+// This Texture Pack was Converted and Compiled by Tormentor667
+// Get more @ http://www.tormentor667.de
+
+texture CGCANI00
+    allowdecals
+    pic CGCANI00 tics 1.5
+    pic CGCANI01 tics 1.5
+    pic CGCANI02 tics 1.5
+    pic CGCANI03 tics 1.5
+    pic CGCANI04 tics 1.5
+    pic CGCANI05 tics 1.5
+    pic CGCANI06 tics 1.5
+    pic CGCANI07 tics 1.5
+    
+switch CGSWC00A on sound Switch1 pic CGSWC00B tics 0
+switch CGSWC00B off sound Switch2 pic CGSWC00A tics 0
+
+switch CGSWC01A on sound Switch1 pic CGSWC01B tics 0
+switch CGSWC01B off sound Switch2 pic CGSWC01A tics 0
+
+switch CGSWC02A on sound Switch1 pic CGSWC02B tics 0
+switch CGSWC02B off sound Switch2 pic CGSWC02A tics 0
+
+switch CGSWC03A on sound Switch1 pic CGSWC03B tics 0
+switch CGSWC03B off sound Switch2 pic CGSWC03A tics 0
