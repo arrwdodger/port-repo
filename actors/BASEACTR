@@ -1,0 +1,29 @@
+class KDHBaseModelActor : Actor
+{
+    Default
+    {
+        +SOLID
+        +NOGRAVITY
+        +DONTTHRUST
+        +INVULNERABLE
+        +NOBLOOD
+    }
+}
+
+class CollisionCubeGeneric_64 : KDHBaseModelActor
+{
+    Default
+    {
+        Radius 32;
+        Height 64;
+    }
+}
+
+class CollisionCubeGeneric_32 : KDHBaseModelActor
+{
+    Defualt
+    {
+        Radius 16;
+        Height 32;
+    }
+}

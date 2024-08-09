@@ -1,0 +1,9 @@
+class pipe_large_128 : KDHBaseModelActor
+{
+    States
+    {
+        Spawn:
+            TNT1 A A_SpawnItemEx("CollisionCubeGeneric_64", 0, 32, 0, 0, 0, 0, 0);
+            TNT1 AA A_SpawnItemEx("CollisionCubeGeneric_64", 0, -32, 0, 0, 0, 0, 0);
+    }
+}

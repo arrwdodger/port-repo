@@ -1,0 +1,7 @@
+Model pipe_Large_128
+{
+    Path "models/pipes"
+    Model 0 "pipe_large_128.obj"
+    Skin 0 "PIPL128C.png"
+    Scale 1.0 1.0 1.0
+}
