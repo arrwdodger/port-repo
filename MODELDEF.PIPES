@@ -1,7 +1,14 @@
-Model pipe_Large_128
+// Large pipes (d = 64)
+
+Model pipe_large_128
 {
     Path "models/pipes"
     Model 0 "pipe_large_128.obj"
     Skin 0 "PIPL128C.png"
-    Scale 1.0 1.0 1.0
+    Scale 1 1 1
+
+    FrameIndex M000 A 0 0
+	
+	USEACTORPITCH
+	USEACTORROLL
 }

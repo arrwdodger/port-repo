@@ -21,7 +21,7 @@ class CollisionCubeGeneric_64 : KDHBaseModelActor
 
 class CollisionCubeGeneric_32 : KDHBaseModelActor
 {
-    Defualt
+    Default
     {
         Radius 16;
         Height 32;
